@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Kole S. Bauer
 
-<!--
-**kolebauer/kolebauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student @ BYU-Idaho (Expected Apr 2026)**  
+Aspiring engineer with strong foundations in Python and C#, and a passion for building practical tools that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Technologies
+
+- **Languages:** Python, C#, SQL
+- **Tools:** Git, VS Code, Visual Studio
+- **Technologies:** SQL basics, Tkinter, Pandas. Scikit-learn, OOP, CLI apps, file I/O
+- **Systems:** Windows OS, basic Linux commands
+
+---
+
+## 🚀 Projects
+
+**🔹 Smart Farm Activity Logger**  
+Python desktop app for logging farm operations and activities. Uses structured data storage, Tkinter GUI, and plans for database integration.
+
+**🔹 Supermarket Simulation**  
+C# OOP simulation modeling inventory, sales transactions, restocking, and daily operations. Includes file persistence and real-time terminal animations.
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kole-bauer-925a1215a/)
+- [Email](mailto:kolebauer@gmail.com)
+
+---
+
+_Thanks for visiting my profile!_
