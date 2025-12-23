@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kole S. Bauer
 
-**Computer Science Student @ BYU-Idaho (Expected Dec 2026)**  
+**Computer Science & Data Science Student @ BYU-Idaho (Expected Dec 2026)**  
 Aspiring engineer with strong foundations in Python and C#, and a passion for building practical tools that solve real-world problems.
 
 ---
